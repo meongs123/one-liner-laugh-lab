@@ -11,16 +11,16 @@ after eating a sock.
 
 ## The line
 
-> I ate the sock because it was a floor model — on display, on the floor, no price tag, so I figured it was included with the house.
+> I ate the sock because it was a floor model — on display, no price tag, so I figured it came with the house.
 
 The angle is floor model / display model: instead of the bare "it was on the
 floor" excuse the field is full of, the vacuum reads the word "floor" the
 retail way — the sock was a display piece, on the floor, with no price tag,
 so it assumed the piece came with the house. First-person vacuum voice, one
-sentence, 130 characters.
+sentence, 108 characters.
 
 Note: the em dash in the line is a single Unicode character (U+2014); the
-130-character count is by characters, not bytes (132 bytes in UTF-8).
+108-character count is by characters, not bytes (110 bytes in UTF-8).
 
 ## How it runs
 
